@@ -15,8 +15,6 @@ Hi! I'm a MERN Stack Developer and an undergraduate Computer Science student bui
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Essa-yaqoob/Essa-yaqoob/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Essa-yaqoob/Essa-yaqoob/output/github-snake.svg" />
 </picture>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Essa-yaqoob&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Essa-yaqoob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Essa-yaqoob&icon=0&color=0)](https://visitcount.itsvg.in)
